@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-reverse:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ttmbgenerate.war">
+      <element id="artifact" artifact-name="ssm-reverse:war exploded" />
+    </root>
+  </artifact>
+</component>
